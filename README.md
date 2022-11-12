@@ -1,5 +1,5 @@
 
- This repo contains an implementation  for a True Random Number Generator based on boson sampling using qiskit platform with quantum programming.  This code is prepared for the Womanium Quantum Computing and Entrepreneuship Program and this challenge is proposed by ORCA Computing.
+ This repo contains an implementation  for a True Random Number Generator based on boson sampling using qiskit platform with quantum programming.  This code is prepared for the Womanium Quantum Computing and Entrepreneuship Program - Quantum Hackaton - and this challenge is proposed by ORCA Computing.
 
 # Random-number-generation-using-boson-sampling---ORCA-Computing
 Womanium Quantum Hackathon 2022
